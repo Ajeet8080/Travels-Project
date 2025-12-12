@@ -89,6 +89,9 @@ Provides:
 | **JavaScript** | Dynamic content + validation |
 
 ---
+## UI Screenshot
+<img width="1905" height="848" alt="Screenshot 2025-12-12 153845" src="https://github.com/user-attachments/assets/b5ec6e8b-8601-4c9c-851a-20fe8633bb36" />
+
 
 ## 📌 Future Enhancements
 
